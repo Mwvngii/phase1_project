@@ -1,6 +1,6 @@
 # AVIATION RISK ASSESSMENT ANALYSIS(MY PHASE 1 PROJECT)
 
-[AVIATION ACCIDENTS](Images/aircrash.jpg)
+<img src="Images/aircrash.jpg" />
 
 ## Project Overview
 The aim of this project is to analyze aviation accident data to identify the lowest-risk aircraft for potential purchase by our company. We shall involve data cleaning, imputation, analysis and visualization, culminating into actionable insights and recommendations for business stakeholders.
